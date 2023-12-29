@@ -1,7 +1,8 @@
 <p align="center">
 <h1 align="center" style="margin-top: 0px;">*** Dodge ***</h1>
-![Screenshot](/Screenshot.PNG)
 </p>
+![Screenshot](/Screenshot.PNG?raw=true)
+
 
 ## Description
 
