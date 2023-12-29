@@ -1,9 +1,8 @@
-<p align="center">
 <h1 align="center" style="margin-top: 0px;">*** Dodge ***</h1>
-</p>
 
 <p align="center">
-<img src="https://github.com/hantaray/Dodge/Screenshot.PNG" width=25% height=25%>
+  
+<img src="(https://github.com/hantaray/Dodge/blob/f078d017e0588f9f69546929635f8a61f1b224a4/Screenshot.PNG)" width=25% height=25%>
 </p>
 
 ## Description
