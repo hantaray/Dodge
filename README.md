@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  
-![Screenshot](/Screenshot.PNG?raw=true)
-
+<img src="https://github.com/hantaray/Dodge/Screenshot.PNG" width=25% height=25%>
 </p>
 
 ## Description
