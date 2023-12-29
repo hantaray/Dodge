@@ -2,7 +2,7 @@
 
 <p align="center">
   
-<img src="(https://github.com/hantaray/Dodge/blob/f078d017e0588f9f69546929635f8a61f1b224a4/Screenshot.PNG)" width=25% height=25%>
+<img src="https://github.com/hantaray/Dodge/blob/f078d017e0588f9f69546929635f8a61f1b224a4/Screenshot.PNG" width=25% height=25%>
 </p>
 
 ## Description
