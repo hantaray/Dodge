@@ -11,7 +11,7 @@ Small game for Web/Mobile/Desktop made with [Godot]([https://godotengine.org/])
 
 ## Run
 
-- you can test the game in the browser [here]([https://hantaray.github.io/Dodge/])
+- you can test the game in the browser [here](https://hantaray.github.io/Dodge/)
 - or download the Dodge.apk and run it on your mobile
 - or download the Dodge.exe and run it on your desktop (Windows)
 
